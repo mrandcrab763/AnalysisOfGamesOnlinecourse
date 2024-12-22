@@ -25,7 +25,7 @@
 ## Цель работы
 Познакомиться с программными средствами для создания системы машинного обучения и ее интеграции в Unity.
 
-Проекты Unity и скриншот TensorBoard представлены на диске: https://drive.google.com/drive/folders/1cT94LClupJhUVL-vECnEtqcA_W5z28Wi
+Проекты Unity и скриншот TensorBoard представлены на диске: [https://drive.google.com/drive/folders/1jGmc2Kw2HSKGkSwE8wsik3u8_IyvE2l4?usp=drive_link]
 
 ## Задание 1
 ### Найдите внутри C# скрипта “коэффициент корреляции ” и сделать выводы о том, как он влияет на обучение модели.
