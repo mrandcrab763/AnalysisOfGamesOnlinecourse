@@ -1,7 +1,7 @@
 # -2-in-GameDev-# АНАЛИЗ ДАННЫХ В РАЗРАБОТКЕ ИГР ЛАБОРАТОРНАЯ РАБОТА 2 [in GameDev]
 Отчет по лабораторной работе #2 выполнил:
-- Шайдуров Савелий Сергеевич
-- АТ-05
+- Пичин Даниил Львович
+- НМТ-230802
 Отметка о выполнении заданий :
 
 | Задание | Выполнение | Баллы |
@@ -16,7 +16,7 @@
 
 ##Структура отчета
 
-- #Данные о работе: Работа #2. Шайдуров Савелий Сергеевич, Выполнены задачи 1,2,3,4
+- #Данные о работе: Работа #2. 
 - #Научиться передавать в Unity данные из Google Sheets с помощью Python.
 
   
@@ -33,7 +33,8 @@
 - Скопировать адрес сервисного аккаунта.
 - создать Google-таблицу и доступ к ней для редактирования с созданного сервисного аккаунта.
   
-![image](https://github.com/user-attachments/assets/ff074409-5bb2-4bad-8f1b-8634cba7383d)
+![image](![image](https://github.com/user-attachments/assets/5a178b42-aad3-411d-9482-f77fad26bfbd)
+)
 
 
 
@@ -44,17 +45,21 @@
 - Запустить Jupyter Notebook и создать новый .ipynbфайл. 
 - В .ipynb файле реализовать передачу данных в созданную ранее Google-таблицу.
 
-![image](https://github.com/user-attachments/assets/9391666f-dabe-4f65-b7fc-720b4469fcc8)
+![image](![image](https://github.com/user-attachments/assets/9133e86a-5c93-42ac-ac07-7e66a98bf834)
+)
 
-![image](https://github.com/user-attachments/assets/6e94c25f-58a9-48c6-8f06-fe760d06d95f)
+![image](![image](https://github.com/user-attachments/assets/9fee5404-c296-4a63-81e4-cd153536e779)
+)
 
-![image](https://github.com/user-attachments/assets/78a30e63-80e6-4a10-9498-907ad5dac3e2)
+![image](![image](https://github.com/user-attachments/assets/4d32bbf7-0b80-401f-a31a-c259f6385382)
+)
 
 
 - # Задание 3.Создание ключа API для передачи данных из google-таблицы в Unity
 - Создать ключ API для получения данных из таблиц и их обработки в Unity.
 
-  ![image](https://github.com/user-attachments/assets/467b507b-f0a1-40c8-957a-a1f7d2b8a9aa)
+  ![image](![image](https://github.com/user-attachments/assets/680d530b-65e6-4541-98f7-bec75e42ddcd)
+)
 
 
 - # Задание 4. 4 Новый проект на Unity
@@ -62,10 +67,12 @@
 - Добавить в файлы проекта jsonPackage и soundPackage.
 - Создать на сцене Unity пустой GameObjectи подключите к ней .csскрипт, в котором подключение к Google-таблице по API и подать сигнал в игру в соответствии со считываемыми значениями:
   
-![image](https://github.com/user-attachments/assets/4750b8ec-8e83-44ba-bf83-fb0c66a8fd4f)
-![image](https://github.com/user-attachments/assets/cf8c7f3c-3a4e-43bc-9be7-804e028c9137)
+![image](![image](https://github.com/user-attachments/assets/2aab30f3-6d8b-41fe-9c33-0f8834a4e78a)
+)
+![image](![image](https://github.com/user-attachments/assets/3f94e28c-0639-486b-aaad-15256df2a1e9)
+)
 
 
 ## Выводы
 
-В ходе выполнения лабораторной работы мы научились передавать данные из Google Sheets в Unity с использованием Python и настроенного API. Реализованы генерация данных на Python, их передача в Google Sheets, а также использование этих данных в игровом движке Unity для передачи звука в соответствии с экономической моделью динамики.
+В ходе лабораторной работы был изучен способ передачи данных из Google Sheets в Unity с использованием Python и настроенного API. Реализованы генерация данных на Python, их передача в Google Sheets, а также использование этих данных на игровом движке Unity для передачи звука в соответствии с экономической моделью динамики.
